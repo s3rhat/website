@@ -7,9 +7,12 @@
 			<ul class="flat">
 				<li class="position">{{$key.position}}, {{$key.name}}</li>
 				<li class="email">{{ $key.contact}}</li>
+				<br>
+				<li class="interests"><b><i>Interests : </b></i>{{ $key.interests}}</li>
 			</ul>
 			{{- end -}}
 		</span>
+
 		<!--
       {{- if isset .Site.Params "subtitle" -}}
       <h2>{{ .Site.Params.Subtitle | markdownify }}</h2>
@@ -21,19 +24,26 @@
 				{{- range $index, $key := .Site.Params.Social -}}
 				<a href="{{ $key.url }}" title="{{ $key.name }}"><i data-feather="{{ $key.icon }}"></i></a>
 				{{- end -}}
+
 				{{ if or (.Site.Params.blog) (.Site.Params.cv_name) }}
 				|
 				{{- with .Site.Params.blog -}}
-				<a href="{{ . }}" class="blog_cv">[blog]</a>
+				<a href="{{ . }}" class="blog_cv">[Blog]</a>
 				{{- end -}}
 
 				{{ with .Site.Params.cv_name }}
-				<a href="{{ . }}" class="blog_cv">[cv]</a>
+				<a href="{{ . }}" class="blog_cv">[CV]</a>
 				{{ end }}
 				{{ end }}
 			</ul>
 		</nav>
 	</div>
+
+
+
+
+
+
 
 	<nav class="nav">
 		<ul class="flat">

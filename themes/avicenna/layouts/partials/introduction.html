@@ -1,19 +1,14 @@
+
+<br>
 <div class="introduction">
-
-	<span>
-		<b>*</b> {{ $.Site.Params.interests | markdownify }}
-	</span>
-
 
 	{{- range $index, $key := .Site.Params.Introduction.paragraph -}}
 	<span>
 		{{ $key.text  | markdownify }}
 	</span>
-
-
-
-
-	<br>
 	{{- end -}}
+
+		
+
 
 </div>
