@@ -1,4 +1,4 @@
-baseURL = "https://example.edu"
+# baseURL = "https://example.edu"
 languageCode = "en-us"
 title = "Serhat Turkmen"
 theme = "avicenna"
@@ -28,12 +28,12 @@ enableEmoji=true
   text ="Google Scholar"
 
 [[params.social]]
-    icon = "grid"
-    url = "https://www.researchgate.net/profile/Serhat-Turkmen"
+  icon = "grid"
+  url = "https://www.researchgate.net/profile/Serhat-Turkmen"
 
 [[params.social]]
-        icon = "hash"
-        url = "https://orcid.org/0000-0003-0410-9161"
+  icon = "hash"
+  url = "https://orcid.org/0000-0003-0410-9161"
 
 [[params.social]]
   name = "Twitter"
@@ -48,8 +48,7 @@ enableEmoji=true
 
 
 [[params.introduction.paragraph]]
-  text="""
-   """
+  text=""
 
 #[[params.introduction.paragraph]]
   #text=""" Postdoctoral scientist. Recently, moved from Spain to the United States to learn new perspectives with the aim to become a better reseracher. Has long-term international experience, a solid publication record, and strong knowledge in fish nutrition with an emphasis on improving growth in fish. So far, has been involved in more than 20 research studies which involves a variety of fish and shrimp species. Highly influenced and motivated to develop a career in a well-established research institute and team.
