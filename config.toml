@@ -3,200 +3,199 @@ languageCode = "en-us"
 title = "Serhat Turkmen"
 theme = "avicenna"
 googleAnalytics = "G-HX9QM3W6CT"
-timeout=3000
-enableEmoji=true
+timeout = 3000
+enableEmoji = true
 
 [params]
-  subtitle= "Personal Web Page"
-  interests= "Aquaculture, Fish Nutrition, Nutritional Programming, Epigenetics"
-  cv_name= "STurkmen_CV.pdf"
-  blog= "blog"
-  motto = "Be happy"
+subtitle = "Personal Web Page"
+interests = "Aquaculture, Fish Nutrition, Nutritional Programming, Epigenetics"
+cv_name = "STurkmen_CV.pdf"
+blog = "blog"
+motto = "Be happy"
 
 
 [[params.affilation]]
-  name = "University of Alabama at Birmingham, AL, USA"
-  position = "Ph.D., Postdoctoral Fellow"
-  contact = "turkmen@uab.edu"
-  interests= "Aquaculture, Fish Nutrition, Nutritional Programming, Epigenetics"
-
-
-
-[[params.social]]
-  icon = "globe"
-  url = "https://scholar.google.com/citations?user=ZShHgGYAAAAJ&hl=en"
-  text ="Google Scholar"
-
-[[params.social]]
-  icon = "grid"
-  url = "https://www.researchgate.net/profile/Serhat-Turkmen"
-
-[[params.social]]
-  icon = "hash"
-  url = "https://orcid.org/0000-0003-0410-9161"
-
-[[params.social]]
-  name = "Twitter"
-  icon = "twitter"
-  url = "https://twitter.com/turkmens"
+name = "University of Alabama at Birmingham, AL, USA"
+position = "Ph.D., Postdoctoral Fellow"
+contact = "turkmen@uab.edu"
+interests = "Aquaculture, Fish Nutrition, Nutritional Programming, Epigenetics"
 
 
 [[params.social]]
-  name = "LinkedIn"
-  icon = "linkedin"
-  url = "https://linkedin.com/in/serhatturkmen/"
+icon = "globe"
+url = "https://scholar.google.com/citations?user=ZShHgGYAAAAJ&hl=en"
+text = "Google Scholar"
+
+[[params.social]]
+icon = "grid"
+url = "https://www.researchgate.net/profile/Serhat-Turkmen"
+
+[[params.social]]
+icon = "hash"
+url = "https://orcid.org/0000-0003-0410-9161"
+
+[[params.social]]
+name = "Twitter"
+icon = "twitter"
+url = "https://twitter.com/turkmens"
+
+
+[[params.social]]
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://linkedin.com/in/serhatturkmen/"
 
 
 [[params.introduction.paragraph]]
-  text=""
+text = ""
 
 #[[params.introduction.paragraph]]
-  #text=""" Postdoctoral scientist. Recently, moved from Spain to the United States to learn new perspectives with the aim to become a better reseracher. Has long-term international experience, a solid publication record, and strong knowledge in fish nutrition with an emphasis on improving growth in fish. So far, has been involved in more than 20 research studies which involves a variety of fish and shrimp species. Highly influenced and motivated to develop a career in a well-established research institute and team.
-  #"""
+#text=""" Postdoctoral scientist. Recently, moved from Spain to the United States to learn new perspectives with the aim to become a better reseracher. Has long-term international experience, a solid publication record, and strong knowledge in fish nutrition with an emphasis on improving growth in fish. So far, has been involved in more than 20 research studies which involves a variety of fish and shrimp species. Highly influenced and motivated to develop a career in a well-established research institute and team.
+#"""
 
 #[[params.projects]]
-	#[[params.projects.project]]
-		#name = "Velit egestas dui id ornare arcu odio ut sem. Nec nam aliquam sem et tortor"
-		#description  = "Enim facilisis gravida neque convallis a. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare suspendisse.Velit egestas dui id ornare arcu odio ut sem. Nec nam aliquam sem et tortor. In nisl nisi scelerisque eu ultrices vitae auctor."
-		#project_page = "https://myprojecthomepage.com"
-		#code_link = "https://coderepo.com"
-		#blog_link = "https://ablogpost.com"
+#[[params.projects.project]]
+#name = "Velit egestas dui id ornare arcu odio ut sem. Nec nam aliquam sem et tortor"
+#description  = "Enim facilisis gravida neque convallis a. Suspendisse potenti nullam ac tortor vitae purus faucibus ornare suspendisse.Velit egestas dui id ornare arcu odio ut sem. Nec nam aliquam sem et tortor. In nisl nisi scelerisque eu ultrices vitae auctor."
+#project_page = "https://myprojecthomepage.com"
+#code_link = "https://coderepo.com"
+#blog_link = "https://ablogpost.com"
 
 
 [[params.publications]]
-  year="2021"
+year = "2021"
 
-  [[params.publications.paper]]
-    name = "Influence of genetic selection for growth and broodstock diet n-3 LC-PUFA levels on reproductive performance of gilthead seabream, _Sparus aurata_"
-    authors = "Ferosekhan S., __Turkmen S.__, Perez-Garcia C., Xu H., Gomez A., Shamna N., Roselund G., Fontanillas R., Gracia A., Izquierdo M. , Kaushik S.,"
-    dest  = "Animals"
-    link = "https://www.mdpi.com/2076-2615/11/2/519"
+[[params.publications.paper]]
+name = "Influence of genetic selection for growth and broodstock diet n-3 LC-PUFA levels on reproductive performance of gilthead seabream, _Sparus aurata_"
+authors = "Ferosekhan S., __Turkmen S.__, Perez-Garcia C., Xu H., Gomez A., Shamna N., Roselund G., Fontanillas R., Gracia A., Izquierdo M. , Kaushik S.,"
+dest = "Animals"
+link = "https://www.mdpi.com/2076-2615/11/2/519"
 
-  [[params.publications.paper]]
-  		name = "High broodstock _fads2_ expression combined with nutritional programing through broodstock diet improves the use of low fishmeal and low fish oil diets in gilthead seabream (_Sparus aurata_) progeny"
-  		authors = "Xu H., Ferosekhan S., __Turkmen S.__, Afonso J.M., Zamorano M.J., Izquierdo M."
-  		dest  = "Aquaculture"
-  		link = "https://www.sciencedirect.com/science/article/pii/S0044848620340278"
+[[params.publications.paper]]
+name = "High broodstock _fads2_ expression combined with nutritional programing through broodstock diet improves the use of low fishmeal and low fish oil diets in gilthead seabream (_Sparus aurata_) progeny"
+authors = "Xu H., Ferosekhan S., __Turkmen S.__, Afonso J.M., Zamorano M.J., Izquierdo M."
+dest = "Aquaculture"
+link = "https://www.sciencedirect.com/science/article/pii/S0044848620340278"
 
 [[params.publications]]
-  year="2020"
+year = "2020"
 
-  [[params.publications.paper]]
-		name = "Parental LC-PUFA biosynthesis capacity and nutritional intervention with ALA affect performance of _Sparus aurata_ progeny"
-		authors = "__Turkmen S.__, Zamorano M.J., Xu H., Fernández-Palacios H., Robaina L., Izquierdo M."
-		dest  = "Journal of Experimental Biology"
-		link = "https://jeb.biologists.org/content/jexbio/223/23/jeb214999.full.pdf"
+[[params.publications.paper]]
+name = "Parental LC-PUFA biosynthesis capacity and nutritional intervention with ALA affect performance of _Sparus aurata_ progeny"
+authors = "__Turkmen S.__, Zamorano M.J., Xu H., Fernández-Palacios H., Robaina L., Izquierdo M."
+dest = "Journal of Experimental Biology"
+link = "https://jeb.biologists.org/content/jexbio/223/23/jeb214999.full.pdf"
 
-  [[params.publications.paper]]
-		name = "Influence of parental fatty acid desaturase 2 (_fads2_) expression and diet on gilthead seabream (_Sparus aurata_) offspring fads2 expression during ontogenesis "
-		authors = "Xu H., Ferosekhan S., __Turkmen S.__, Afonso J.M., Zamorano M.J., Izquierdo M."
-		dest  = "Animals"
-		link = "https://www.mdpi.com/2076-2615/10/11/2191"
+[[params.publications.paper]]
+name = "Influence of parental fatty acid desaturase 2 (_fads2_) expression and diet on gilthead seabream (_Sparus aurata_) offspring fads2 expression during ontogenesis "
+authors = "Xu H., Ferosekhan S., __Turkmen S.__, Afonso J.M., Zamorano M.J., Izquierdo M."
+dest = "Animals"
+link = "https://www.mdpi.com/2076-2615/10/11/2191"
 
-  [[params.publications.paper]]
-		name = "Reproductive performance of gilthead seabream (_Sparus aurata_) broodstock showing different expression of fatty acyl desaturase 2 and fed two dietary fatty acid profiles"
-		authors = "Ferosekhan S., Xu H., __Turkmen S.__, Gomez A., Afonso J.M., Fontanillas R., Roselund G., Kaushik S., Izquierdo M."
-		dest  = "Scientific Reports"
-		link = "https://www.nature.com/articles/s41598-020-72166-5"
+[[params.publications.paper]]
+name = "Reproductive performance of gilthead seabream (_Sparus aurata_) broodstock showing different expression of fatty acyl desaturase 2 and fed two dietary fatty acid profiles"
+authors = "Ferosekhan S., Xu H., __Turkmen S.__, Gomez A., Afonso J.M., Fontanillas R., Roselund G., Kaushik S., Izquierdo M."
+dest = "Scientific Reports"
+link = "https://www.nature.com/articles/s41598-020-72166-5"
 
-  [[params.publications.paper]]
-      name = "The relationship between the expression of fatty acyl desaturase 2 (_fads2_) gene in peripheral blood cells (pbcs) and liver in gilthead seabream, _Sparus aurata_ broodstock fed a low n-3 LC-PUFA diet "
-      authors = "Ferosekhan S., __Turkmen S.__, Xu H., Afonso J.M., Zamorano M.J., Kaushik S., Izquierdo M."
-      dest  = "Life"
-      link = "https://www.mdpi.com/2075-1729/10/7/117"
+[[params.publications.paper]]
+name = "The relationship between the expression of fatty acyl desaturase 2 (_fads2_) gene in peripheral blood cells (pbcs) and liver in gilthead seabream, _Sparus aurata_ broodstock fed a low n-3 LC-PUFA diet "
+authors = "Ferosekhan S., __Turkmen S.__, Xu H., Afonso J.M., Zamorano M.J., Kaushik S., Izquierdo M."
+dest = "Life"
+link = "https://www.mdpi.com/2075-1729/10/7/117"
 
-  [[params.publications.paper]]
-          name = "Stearoyl-CoA desaturase (_scd1a_) is epigenetically regulated by broodstock nutrition in gilthead sea bream (_Sparus aurata_)  "
-          authors = "Perrera E., __Turkmen S.__, Zamorano M.J., Simo-Miramet P., Xu H., Izquierdo M. Perez-Sanchez J.,"
-          dest  = "Epigenetics"
-          link = "https://www.tandfonline.com/doi/abs/10.1080/15592294.2019.1699982"
-  [[params.publications.paper]]
-          name = "Alteration of growth and temperature tolerance of European sea bass (_Dicentrarchus labrax_ Linnaeus 1758) in different temperature and salinity combinations"
-          authors = "Yilmaz A., __Turkmen S.__, Kumlu M., Eroldogan O.T., Perker N. *Co First Author"
-          dest  = "Turkish Journal of Fisheries Sciences"
-          link = "https://accedacris.ulpgc.es/bitstream/10553/60015/1/alterationofgrowth.pdf"
+[[params.publications.paper]]
+name = "Stearoyl-CoA desaturase (_scd1a_) is epigenetically regulated by broodstock nutrition in gilthead sea bream (_Sparus aurata_)  "
+authors = "Perrera E., __Turkmen S.__, Zamorano M.J., Simo-Miramet P., Xu H., Izquierdo M. Perez-Sanchez J.,"
+dest = "Epigenetics"
+link = "https://www.tandfonline.com/doi/abs/10.1080/15592294.2019.1699982"
+[[params.publications.paper]]
+name = "Alteration of growth and temperature tolerance of European sea bass (_Dicentrarchus labrax_ Linnaeus 1758) in different temperature and salinity combinations"
+authors = "Yilmaz A., __Turkmen S.__, Kumlu M., Eroldogan O.T., Perker N. *Co First Author"
+dest = "Turkish Journal of Fisheries Sciences"
+link = "https://accedacris.ulpgc.es/bitstream/10553/60015/1/alterationofgrowth.pdf"
 
-  [[params.publications]]
-            year="2019"
+[[params.publications]]
+year = "2019"
 
-  [[params.publications.paper]]
-      name = "Nutritional intervention through dietary vegetable proteins and lipids to gilthead sea bream (Sparus aurata) broodstock affects the offspring utilization of a low fishmeal/fish oil diet "
-      authors = "Xu H., __Turkmen S.__, Rimoldi S., Terova G., Zamorano M.J., Afonso J.M., Sarih S., Fernández-Palacios H., Izquierdo M."
-      dest  = "Aquaculture"
-      link = "https://www.sciencedirect.com/science/article/pii/S0044848619305770"
+[[params.publications.paper]]
+name = "Nutritional intervention through dietary vegetable proteins and lipids to gilthead sea bream (Sparus aurata) broodstock affects the offspring utilization of a low fishmeal/fish oil diet "
+authors = "Xu H., __Turkmen S.__, Rimoldi S., Terova G., Zamorano M.J., Afonso J.M., Sarih S., Fernández-Palacios H., Izquierdo M."
+dest = "Aquaculture"
+link = "https://www.sciencedirect.com/science/article/pii/S0044848619305770"
 
-  [[params.publications.paper]]
-      name = "LC-PUFA profiles in parental diets induced long-term effects on growth, fatty acid profiles and expression of selected PUFA metabolism and immune system related genes in gilthead seabream offspring"
-      authors = "__Turkmen S.__, Hernández-Cruz C.M., Zamorano M.J., Fernández-Palacios H., Montero D., Afonso J.M., Izquierdo M."
-      dest  = "British Journal of Nutrition"
-      link = "https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/longchain-pufa-profiles-in-parental-diets-induce-longterm-effects-on-growth-fatty-acid-profiles-expression-of-fatty-acid-desaturase-2-and-selected-immune-systemrelated-genes-in-the-offspring-of-gilthead-seabream/102DE25A2DC3BA4EAF3CAEDD0331B6C1"
+[[params.publications.paper]]
+name = "LC-PUFA profiles in parental diets induced long-term effects on growth, fatty acid profiles and expression of selected PUFA metabolism and immune system related genes in gilthead seabream offspring"
+authors = "__Turkmen S.__, Hernández-Cruz C.M., Zamorano M.J., Fernández-Palacios H., Montero D., Afonso J.M., Izquierdo M."
+dest = "British Journal of Nutrition"
+link = "https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/longchain-pufa-profiles-in-parental-diets-induce-longterm-effects-on-growth-fatty-acid-profiles-expression-of-fatty-acid-desaturase-2-and-selected-immune-systemrelated-genes-in-the-offspring-of-gilthead-seabream/102DE25A2DC3BA4EAF3CAEDD0331B6C1"
 
-      [[params.publications]]
-                year="2018"
+[[params.publications]]
+year = "2018"
 
-  [[params.publications.paper]]
-          name = "Dietary krill meal inclusion contributes to better growth performance of gilthead seabream juveniles"
-          authors = "Saleh R., Burri L., Benitez-Santana T., __Turkmen S.__, Castro P., Izquierdo M."
-          dest  = "Aquaculture Research"
-          link = "https://onlinelibrary.wiley.com/doi/abs/10.1111/are.13792"
+[[params.publications.paper]]
+name = "Dietary krill meal inclusion contributes to better growth performance of gilthead seabream juveniles"
+authors = "Saleh R., Burri L., Benitez-Santana T., __Turkmen S.__, Castro P., Izquierdo M."
+dest = "Aquaculture Research"
+link = "https://onlinelibrary.wiley.com/doi/abs/10.1111/are.13792"
 
-  [[params.publications]]
-                    year="2017"
-    [[params.publications.paper]]
-          name = "Parental nutritional programming and a reminder during juvenile stage affect growth, lipid metabolism and utilisation in later developmental stages of a marine teleost, the gilthead sea bream (_Sparus aurata_)"
-          authors = "__Turkmen S.__, Zamorano M.J., Fernández-Palacios H., Hernández-Cruz C.M., Montero D., Robaina L., Izquierdo M."
-          dest  = "British Journal of Nutrition"
-          link = "https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/parental-nutritional-programming-and-a-reminder-during-juvenile-stage-affect-growth-lipid-metabolism-and-utilisation-in-later-developmental-stages-of-a-marine-teleost-the-gilthead-sea-bream-sparus-aurata/3E661EDE2E0C7B153114220673AF798C"
+[[params.publications]]
+year = "2017"
+[[params.publications.paper]]
+name = "Parental nutritional programming and a reminder during juvenile stage affect growth, lipid metabolism and utilisation in later developmental stages of a marine teleost, the gilthead sea bream (_Sparus aurata_)"
+authors = "__Turkmen S.__, Zamorano M.J., Fernández-Palacios H., Hernández-Cruz C.M., Montero D., Robaina L., Izquierdo M."
+dest = "British Journal of Nutrition"
+link = "https://www.cambridge.org/core/journals/british-journal-of-nutrition/article/parental-nutritional-programming-and-a-reminder-during-juvenile-stage-affect-growth-lipid-metabolism-and-utilisation-in-later-developmental-stages-of-a-marine-teleost-the-gilthead-sea-bream-sparus-aurata/3E661EDE2E0C7B153114220673AF798C"
 
-    [[params.publications.paper]]
-          name = "Nutritional stimuli of gilthead seabream (_Sparus aurata_) larvae by dietary fatty acids: effects on larval performance, gene expression and neurogenesis."
-          authors = "__Turkmen S.__, Castro P.L., Caballero M.J., Hernández-Cruz C.M., Saleh R., Zamorano M.J., Regidor J., Izquierdo M."
-          dest  = "Aquaculture Research"
-          link = "https://onlinelibrary.wiley.com/doi/abs/10.1111/are.12874"
+[[params.publications.paper]]
+name = "Nutritional stimuli of gilthead seabream (_Sparus aurata_) larvae by dietary fatty acids: effects on larval performance, gene expression and neurogenesis."
+authors = "__Turkmen S.__, Castro P.L., Caballero M.J., Hernández-Cruz C.M., Saleh R., Zamorano M.J., Regidor J., Izquierdo M."
+dest = "Aquaculture Research"
+link = "https://onlinelibrary.wiley.com/doi/abs/10.1111/are.12874"
 
-    [[params.publications]]
-                            year="2015"
+[[params.publications]]
+year = "2015"
 
-    [[params.publications.paper]]
-                                  name = "Nutritional programming through broodstock diets to improve utilization of very low fishmeal and fish oil diets in gilthead sea bream"
-                                  authors = "Izquierdo M., __Turkmen S.__, Montero D., Zamorano M.J., Afonso J.M., Karalazos V., Fernández-Palacios H."
-                                  dest  = "Aquaculture"
-                                  link = "https://onlinelibrary.wiley.com/doi/abs/10.1111/are.12874"
+[[params.publications.paper]]
+name = "Nutritional programming through broodstock diets to improve utilization of very low fishmeal and fish oil diets in gilthead sea bream"
+authors = "Izquierdo M., __Turkmen S.__, Montero D., Zamorano M.J., Afonso J.M., Karalazos V., Fernández-Palacios H."
+dest = "Aquaculture"
+link = "https://onlinelibrary.wiley.com/doi/abs/10.1111/are.12874"
 
-    [[params.publications]]
-                            year="2012"
+[[params.publications]]
+year = "2012"
 
-                [[params.publications.paper]]
-                                                          name = "Thermal tolerance of European Sea Bass (_Dicentrarchus labrax_) juveniles acclimated to three temperature levels"
-                                                          authors = "Dulger N., Kumlu M., __Turkmen S.__, Olculu A., Eroldogan O. T., Yilmaz H. A."
-                                                          dest  = "Journal of Thermal Biology"
-                                                          link = "https://www.sciencedirect.com/science/article/pii/S0306456511001586"
-    [[params.publications]]
-                            year="2011"
+[[params.publications.paper]]
+name = "Thermal tolerance of European Sea Bass (_Dicentrarchus labrax_) juveniles acclimated to three temperature levels"
+authors = "Dulger N., Kumlu M., __Turkmen S.__, Olculu A., Eroldogan O. T., Yilmaz H. A."
+dest = "Journal of Thermal Biology"
+link = "https://www.sciencedirect.com/science/article/pii/S0306456511001586"
+[[params.publications]]
+year = "2011"
 
-                              [[params.publications.paper]]
-                              name = "Compensatory growth response of European sea bass (_Dicentrarchus labrax_ L.) under cycled starvation and restricted feeding rate"
-                              authors = "__Turkmen S.__, Eroldogan O. T., Yilmaz H. A., Olculu A., Inan G. A., Tekelioglu N."
-                              dest  = "Aquaculture Research"
-                             link = "https://www.sciencedirect.com/science/article/pii/S0306456511001586"
+[[params.publications.paper]]
+name = "Compensatory growth response of European sea bass (_Dicentrarchus labrax_ L.) under cycled starvation and restricted feeding rate"
+authors = "__Turkmen S.__, Eroldogan O. T., Yilmaz H. A., Olculu A., Inan G. A., Tekelioglu N."
+dest = "Aquaculture Research"
+link = "https://www.sciencedirect.com/science/article/pii/S0306456511001586"
 
-                             [[params.publications.paper]]
-                                                                       name = "Off-season maturation and spawning of the Pacific white shrimp _Litopenaeus vannamei_ in sub-tropical conditions"
-                                                                       authors = "Kumlu M., __Turkmen S.__, Kumlu M., Eroldogan O. T."
-                                                                       dest  = "Turkish Journal of Fisheries and Aquatic Sciences"
-                                                                       link = "http://www.trjfas.org/abstract.php?id=659"
+[[params.publications.paper]]
+name = "Off-season maturation and spawning of the Pacific white shrimp _Litopenaeus vannamei_ in sub-tropical conditions"
+authors = "Kumlu M., __Turkmen S.__, Kumlu M., Eroldogan O. T."
+dest = "Turkish Journal of Fisheries and Aquatic Sciences"
+link = "http://www.trjfas.org/abstract.php?id=659"
 
 
-                                                                       [[params.publications]]
-                                                                                               year="2010"
-                      [[params.publications.paper]]
-                                                                                                                 name = "Thermal tolerance of _Litopenaeus vannamei_ (Crustacea: Penaeidae) acclimated to four temperatures"
-                                                                                                                 authors = "Kumlu M., __Turkmen S.__, Kumlu M."
-                                                                                                                 dest  = "Journal of Thermal Biology"
-                                                                                                                 link = "https://www.sciencedirect.com/science/article/pii/S0306456510000653"
+[[params.publications]]
+year = "2010"
+[[params.publications.paper]]
+name = "Thermal tolerance of _Litopenaeus vannamei_ (Crustacea: Penaeidae) acclimated to four temperatures"
+authors = "Kumlu M., __Turkmen S.__, Kumlu M."
+dest = "Journal of Thermal Biology"
+link = "https://www.sciencedirect.com/science/article/pii/S0306456510000653"
 
-                                                                                                                 [[params.publications.paper]]
-                                                                                                                                                                                                            name = "Combined effects of temperature and salinity on critical thermal minima of pacific white shrimp _Litopenaeus vannamei_ (Crustacea: Penaeidae)"
-                                                                                                                                                                                                            authors = "Kumlu M., Kumlu M., __Turkmen S.__"
-                                                                                                                                                                                                            dest  = "Journal of Thermal Biology"
-                                                                                                                                                                                                            link = "https://www.sciencedirect.com/science/article/pii/S0306456510000641"
+[[params.publications.paper]]
+name = "Combined effects of temperature and salinity on critical thermal minima of pacific white shrimp _Litopenaeus vannamei_ (Crustacea: Penaeidae)"
+authors = "Kumlu M., Kumlu M., __Turkmen S.__"
+dest = "Journal of Thermal Biology"
+link = "https://www.sciencedirect.com/science/article/pii/S0306456510000641"
