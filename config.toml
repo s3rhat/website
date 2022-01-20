@@ -67,7 +67,7 @@ enableEmoji=true
   year="2021"
 
   [[params.publications.paper]]
-    name = " DENEME Influence of genetic selection for growth and broodstock diet n-3 LC-PUFA levels on reproductive performance of gilthead seabream, _Sparus aurata_"
+    name = "Influence of genetic selection for growth and broodstock diet n-3 LC-PUFA levels on reproductive performance of gilthead seabream, _Sparus aurata_"
     authors = "Ferosekhan S., __Turkmen S.__, Perez-Garcia C., Xu H., Gomez A., Shamna N., Roselund G., Fontanillas R., Gracia A., Izquierdo M. , Kaushik S.,"
     dest  = "Animals"
     link = "https://www.mdpi.com/2076-2615/11/2/519"
