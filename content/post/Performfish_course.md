@@ -1,3 +1,8 @@
+---
+title: "Performfish"
+date: 2021-02-21T18:51:56-06:00
+draft: false
+---
 - **List of the articles: **
     - **Xu et al., 2021** - High broodstock fads2 expression combined with nutritional programing through broodstock diet improves the use of low fishmeal and low fish oil diets in gilthead seabream (__Sparus aurata__) progeny
         - https://www.sciencedirect.com/science/article/pii/S0044848620340278
